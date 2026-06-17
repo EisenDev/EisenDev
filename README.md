@@ -80,7 +80,6 @@ I use AI tools for coding support, debugging, prototyping, documentation, and le
 
 ## Contact
 
-- Portfolio: `https://your-portfolio-domain.com`
+- Portfolio: `https://arjayescabas.me/`
 - GitHub: [github.com/EisenDev](https://github.com/EisenDev)
 - LinkedIn: [linkedin.com/in/arjay-escabas-8a30413a0](https://www.linkedin.com/in/arjay-escabas-8a30413a0/)
-- OnlineJobs.ph: [onlinejobs.ph/jobseekers/info/4691563](https://www.onlinejobs.ph/jobseekers/info/4691563/)
